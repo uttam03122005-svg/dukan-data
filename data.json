@@ -1,5 +1,28 @@
 {
-  "products": [],
+  "products": [
+    {
+      "id": "mu3uh3gd474dj",
+      "name": "Gold Flack",
+      "units": [
+        {
+          "label": "box",
+          "retail": 120,
+          "wholesale": 117,
+          "stock": 100
+        },
+        {
+          "label": "piece",
+          "retail": 15,
+          "wholesale": 13,
+          "stock": 1000
+        }
+      ],
+      "image": "https://i.ibb.co/MydsY9WN/goldflack.png",
+      "category": "",
+      "hidden": false,
+      "created_at": "2026-09-16T08:34:24.829Z"
+    }
+  ],
   "users": [],
   "orders": [],
   "owner": {
