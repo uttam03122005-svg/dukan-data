@@ -1,6 +1,21 @@
 {
-  "products": [],
+  "products": [
+    {
+      "id": "mu3sjgl8yusro",
+      "name": "Gold Flack",
+      "image": "https://i.ibb.co/MydsY9WN/goldflack.png",
+      "retail_price": 120,
+      "wholesale_price": 117,
+      "stock": 100,
+      "category": "smoking",
+      "hidden": false,
+      "created_at": "2026-09-16T07:40:15.932Z"
+    }
+  ],
   "users": [],
   "orders": [],
-  "owner": { "id": "owner", "password": "owner123" }
+  "owner": {
+    "id": "owner",
+    "password": "owner123"
+  }
 }
