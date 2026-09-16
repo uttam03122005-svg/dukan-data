@@ -1,0 +1,6 @@
+{
+  "products": [],
+  "users": [],
+  "orders": [],
+  "owner": { "id": "owner", "password": "owner123" }
+}
