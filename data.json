@@ -28,5 +28,6 @@
   "owner": {
     "id": "owner",
     "password": "owner123"
-  }
+  },
+  "settings": {}
 }
